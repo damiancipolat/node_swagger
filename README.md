@@ -1,4 +1,4 @@
-<img src="https://github.com/damiancipolat/node_swagger/blob/master/doc/logo.png?raw=true" width="250px" align="right" />
+<img src="https://github.com/damiancipolat/node_swagger/blob/master/doc/logo.png?raw=true" width="200px" align="right" />
 
 # NODE.JS & SWAGGER
 Differentes ways of how to handle money values using JS, some recommended libraries and a custom implementation.
