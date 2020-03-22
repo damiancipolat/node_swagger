@@ -20,3 +20,5 @@ Examples of how to use the module **swagger-ui-express** in an api rest created 
 npm install
 node app.js
 ```
+
+To change the swagger file go to: /express_swagger/swagger.yml
