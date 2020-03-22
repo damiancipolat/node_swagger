@@ -21,4 +21,4 @@ npm install
 node app.js
 ```
 
-To change the swagger file go to: /express_swagger/swagger.yml
+To change the swagger file go to: /express_swagger/swagger.yml, to see the doc enter: **http://127.0.0.1/doc**
