@@ -15,3 +15,8 @@ They are examples of how to document an api using only text .yml files from a si
 
 ## Express & Swagger:
 Examples of how to use the module **swagger-ui-express** in an api rest created with node.js.
+
+```sh
+npm install
+node app.js
+```
