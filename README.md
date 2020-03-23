@@ -31,4 +31,4 @@ npm install
 node app.js
 ```
 
-To see the doc enter: **http://127.0.0.1/doc**
+Note: this is a WIP, take a look atthe file openapi.json in this file the components section is empty and will be replaced with the translation **JOI** to **SWAGGER**. TODO. 
