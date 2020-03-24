@@ -24,8 +24,6 @@ node app.js
 To change the swagger file go to: /express_swagger/swagger.yml, to see the doc enter: **http://127.0.0.1/doc**
 
 ## Express  + JOI + Swagger:
-
-## Express  + JOI + Swagger:
 Example of how to use the module **joi-to-swagger** in an api rest created with node.js, here we use joi to define the schema objects.
 
 ```sh
