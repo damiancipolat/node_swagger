@@ -24,6 +24,8 @@ node app.js
 To change the swagger file go to: /express_swagger/swagger.yml, to see the doc enter: **http://127.0.0.1/doc**
 
 ## Express  + JOI + Swagger:
+
+## Express  + JOI + Swagger:
 Example of how to use the module **joi-to-swagger** in an api rest created with node.js, here we use joi to define the schema objects.
 
 ```sh
@@ -35,3 +37,18 @@ node app.js
 - Add api rest.
 - Include the swagger doc to the api.
 - Add yaml instead of json files.
+
+## Readings
+Continue readings this links:
+- https://app.swaggerhub.com/apis/damcipolat-recargapay/Damian-API/base#/default/post_employes
+- https://www.youtube.com/watch?v=MnC-XJkg6MQ
+- https://www.youtube.com/watch?v=xggucT_xl5U
+- https://www.youtube.com/watch?v=i2Cw0NbImWY
+- https://www.youtube.com/watch?v=Z5j_KINXqrY
+- https://www.npmjs.com/package/joi-to-swagger
+- https://www.npmjs.com/package/joi-route-to-swagger
+- https://www.youtube.com/watch?v=apouPYPh_as
+- https://github.com/scottie1984/swagger-ui-express
+- https://github.com/gargol/swagger-express-validator
+- https://itnext.io/wiring-up-an-api-server-with-express-and-swagger-9bffe0a0d6bd
+- https://github.com/Twipped/joi-to-swagger
