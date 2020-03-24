@@ -31,4 +31,7 @@ npm install
 node app.js
 ```
 
-Note: this is a WIP, take a look atthe file openapi.json in this file the components section is empty and will be replaced with the translation **JOI** to **SWAGGER**. TODO. 
+**TODO:**
+- Add api rest.
+- Include the swagger doc to the api.
+- Add yaml instead of json files.
